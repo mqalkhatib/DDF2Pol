@@ -21,3 +21,15 @@ To quantitatively measure the proposed DDF2Pol model, three evaluation metrics a
 
 Model was qualitatively evaluated by visually comparing the resulting class maps.
 <img width="1331" height="465" alt="image" src="https://github.com/user-attachments/assets/b2752894-efda-4a20-8ed1-d7036c136030" />
+
+
+# Citation
+@article{alkhatib2025ddf2pol,
+  title={DDF2Pol: A dual-domain feature fusion network for PolSAR image classification},
+  author={Alkhatib, Mohammed Q},
+  journal={Pattern Recognition Letters},
+  year={2025},
+  publisher={Elsevier}
+}
+
+Feel Free to contact me on mqalkhatib@ieee.org
